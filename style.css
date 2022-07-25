@@ -1,4 +1,5 @@
-.carousel-bg-color {
+.carousel-bg-color,
+.input-bg-color {
     background-color: #fceae8;
 
 }
@@ -7,7 +8,8 @@
     color: #FF136F;
 }
 
-.buy-now-button {
+.buy-now-button,
+.bg-button {
     background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
     color: #fff;
     border: none;
